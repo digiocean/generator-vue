@@ -5,7 +5,7 @@ var utils = require('./utils')
 
 module.exports = {
     entry: {
-      app: './src/app.vue'
+      app: './src/index.js'
     },
     output: {
         path: config.build.assetsRoot,
