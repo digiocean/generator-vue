@@ -5,3 +5,5 @@ new Vue({
   el: 'body',
   components: { App }
 })
+
+console.log("hello index.js~")
